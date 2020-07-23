@@ -23,7 +23,8 @@ img{max-width:100%;}
 /*-- end reset --*/
 body {
     font-family: 'Ubuntu', sans-serif;
-	background: url(../images/bg.jpg)repeat center 0px;
+/*--	background: url(../images/bg.jpg)repeat center 0px; --*/
+ 	background: url(https://qmeplus.gitee.io/qme/images/bg.jpg)repeat center 0px;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
